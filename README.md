@@ -1,1 +1,46 @@
-https://camo.githubusercontent.com/fc7adc1ff307154dfb8fc9bacdba441625bb60df9d4ae9ae0b2ba52671249a88/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d48692b5468657265212bf09f918b3b2b49276d2b4e69726176213b
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nirravv.nirravv" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arpita!;" />
+</h1>
+
+<h3 align="center">A passionate fullstack developer from United Kingdom 🇬🇧</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 
+ 🌱 I’m currently learning **ExpressJS, NodeJS**, **AngularJS**
+
+💬 Ask me about **Python, Django, Express.js, Node.js, React, Self-hosting... 
+
+ </div>
+ 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/arpita-chaudhari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://my-portfolio-git-main-aarppittas-projects.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=aws,azure,heroku,vercel,netlify,docker,postman" />
+</div>
+
+<br/>
+<hr/>
+
+
+
+<br/>
+<br/>
