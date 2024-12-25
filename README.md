@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **ExpressJS, NodeJS**, **AngularJS**
 
-💬 Ask me about **Python, Django, Express.js, Node.js, React, Self-hosting... 
+💬 Ask me about **Angular, React, Express.js, Node.js, RESTful APIs, Django ...
 
  </div>
  
