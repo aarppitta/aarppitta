@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arpita!;" />
 </h1>
 
-<h3 align="center">A passionate fullstack developer from United Kingdom 🇬🇧</h3>
+<h3 align="center">A passionate Front-End developer from United Kingdom 🇬🇧</h3>
 
 <br/>
 
