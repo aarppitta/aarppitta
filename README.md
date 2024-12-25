@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **ExpressJS, NodeJS**, **AngularJS**
+ 🌱 I’m currently learning **Angular ExpressJS, NodeJS**
 
 💬 Ask me about **Angular, React, Express.js, Node.js, RESTful APIs, Django ...
 
