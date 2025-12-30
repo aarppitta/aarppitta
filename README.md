@@ -32,9 +32,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mysql,mongodb,rabbitmq,kafka,jwt authentication" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mysql,mongodb,rabbitmq,kafka" />
     <br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,heroku,vercel,netlify,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=aws,heroku,vercel,netlify,docker,postman" />
 </div>
 
 <br/>
