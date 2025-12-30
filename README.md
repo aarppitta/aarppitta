@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Angular ExpressJS, NodeJS**
 
-💬 Ask me about **Angular, React, Express.js, Node.js, RESTful APIs, Django ...
+💬 Ask me about **Angular, React, Express.js, Node.js, RESTful APIs ...
 
  </div>
  
@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mysql,mongodb,rabbitmq,kafka,restapi,jwt" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mysql,mongodb,rabbitmq,kafka,jwt authentication" />
     <br>
     <img src="https://skillicons.dev/icons?i=aws,azure,heroku,vercel,netlify,docker,postman" />
 </div>
