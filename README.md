@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arpita!;" />
 </h1>
 
-<h3 align="center">A passionate Front-End developer from United Kingdom 🇬🇧</h3>
+<h3 align="center">A passionate Software engineer</h3>
 
 <br/>
 
@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mysql,mongodb,rabbitmq,kafka,restapi,jwt" />
     <br>
     <img src="https://skillicons.dev/icons?i=aws,azure,heroku,vercel,netlify,docker,postman" />
 </div>
